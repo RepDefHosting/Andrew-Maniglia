@@ -16,7 +16,7 @@ featuredImage:
   src: /img/RainDrop Hero Image.jpg
   alt: Andrew Maniglia
   caption: null
-connectWithMe: Check out me
+connectWithMe: Connect With Me
 pageContent: >-
   # Heading line here
 
@@ -60,7 +60,7 @@ subheader: null
 blogButton:
   label: Latest Blog
   link: /blog
-discoverConnectExplore: Social Media
+discoverConnectExplore: On Social Media
 longBiography_MD: |
   {{long_biography}}
 ---
