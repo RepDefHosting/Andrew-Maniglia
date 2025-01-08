@@ -1,32 +1,28 @@
 ---
 templateKey: blog-post
 schemaType: BlogPosting
-pageTitle: This is a test new blog with a long title example, Lorem Ipsum has
-  been the industry's standard dummy text.
-metaDescription: It is a long established fact that a reader will be distracted
-  by the readable content of a page when looking at its layout. The point of
-  using Lorem Ipsum is that it has a more-or-less normal distribution of
-  letters, as opposed to using 'Content here, content here', making it look like
-  readable English.
+pageTitle: "Composing Modern Liturgical Music "
+metaDescription: Composing modern liturgical music for the Catholic Church
+  involves a delicate balance of maintaining sacred character, exhibiting
+  authentic artistry, and creating compositions that resonate with “ordinary”
+  worshipers.
 published: true
 date: 2024-12-29T13:19:04.076Z
-teaser: It is a long established fact that a reader will be distracted by the
-  readable content of a page when looking at its layout. The point of using
-  Lorem Ipsum is that it has a more-or-less normal distribution of letters, as
-  opposed to using 'Content here, content here', making it look like readable
-  English.
+teaser: Composing modern liturgical music for the Catholic Church involves a
+  delicate balance of maintaining sacred character, exhibiting authentic
+  artistry, and creating compositions that resonate with “ordinary” worshipers.
 featuredImage:
   alt: Test Alt Text
   src: /img/pic-executive-banner-blog-01.webp
 profileButton:
-  label: My Profile
+  label: Bio
   link: /profile
 blogButton:
   label: View all posts
   link: /blog
 ---
-Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+Composing modern liturgical music for the Catholic Church involves a delicate balance of maintaining sacred character, exhibiting authentic artistry, and creating compositions that resonate with “ordinary” worshipers. The music should be contemplative, vibrant, and deeply rooted in the Church's traditions. At the heart of Roman Catholic liturgical music lies the Gregorian Chant, the foundational musical tradition of the faith. 
 
-Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+A composer should engage in the study and performance of Gregorian Chant, seeking to understand and apply its defining musical principles. As outlined in the post-conciliar Church document Musicam Sacram, new forms should derive organically from existing forms, and the new work should belong in the musical heritage of the Church. It goes on to specify that new compositions need to showcase the expected defining qualities of genuine sacred music. It’s also essential that a new musical work caters to the needs of both small and large choirs, along with the active participation of God’s people. 
 
-Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+Pope Benedict XVI asserts that modernizing holy music is strictly within the boundaries of the past, of Gregorian chants, and sacred polyphonic choral music. The qualities of genuine sacred music uphold the human voice as the primary instrument, unite the rhythm of the music with the natural rhythm of the given sacred text, and feature melodic harmonies and lines chosen for appropriate dispositions and emotions to liturgical worship. In this context, any secular associations should become secondary.
