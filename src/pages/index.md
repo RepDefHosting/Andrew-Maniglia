@@ -1,7 +1,7 @@
 ---
 missionStatement: "{{mission_statement}}"
 templateKey: index-page
-pageTitle: Chandler Villacruz, Senior Marketing Executive
+pageTitle: Andrew Maniglia - Guiding Diverse Multifamily Developments
 pageContent: Since joining the web-based **restaurant review** company in its
   startup phase, **Chandler Villacruz** has spearheaded *market research*
   activities that have allowed the firm to build *effective advertising*
@@ -12,18 +12,22 @@ learnMoreButton:
 subheader: Senior Marketing Executive
 pageSlug: /
 featuredImage:
-  src: /img/pic-executive-main-banner-01.webp
-  alt: Chandler Villacruz
+  src: /img/RainDrop Hero Image.jpg
+  alt: Andrew Maniglia
   caption: null
 header: Chandler Villacruz
-metaDescription: Personal website of Chandler Villacruz, Senior Marketing Executive.
+metaDescription: Currently based in Yorktown, NY, Andrew Maniglia has overseen
+  several multifamily developments valued at more than $250mm. As the managing
+  director of Ginsburg Development Companies, LLC, he navigated a complex
+  regulatory environment that has led to considerable success and growth for the
+  company.
 published: true
 profileButton:
   link: /profile
-  label: View Profile
+  label: Bio
 blogButton:
   link: /blog
-  label: Visit My Blog
+  label: Latest Blog
 shortBiography: Since joining the web-based restaurant review company in its
   startup phase, Chandler Villacruz has spearheaded market research activities
   that have allowed the firm to build effective advertising campaigns and
@@ -31,4 +35,4 @@ shortBiography: Since joining the web-based restaurant review company in its
 schemaType: WebPage
 showRecentPosts: false
 ---
-Since joining the web-based **restaurant review** **company** in its startup phase, **Chandler Villacruz** has spearheaded *market research* activities that have allowed the firm to build *effective advertising* campaigns and achieve sound **[business growth](<>)**.
+Currently based in Yorktown, NY, Andrew Maniglia has overseen several multifamily developments valued at more than $250mm. As the managing director of Ginsburg Development Companies, LLC, he navigated a complex regulatory environment that has led to considerable success and growth for the company.
