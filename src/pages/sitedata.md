@@ -1,24 +1,24 @@
 ---
 templateKey: site-data
 published: true
-name: Chandler Villacruz
-jobTitle: Senior Marketing Executive
-location: San Francisco, California, USA
+name: Andrew Maniglia
+jobTitle: Managing Director of Development
+location: Yorktown, NY
 profileImage:
-  src: /img/default-profile-male.png
-  alt: Chandler Villacruz
-siteUrl: https://mpdsbuild.netlify.app/
+  src: /img/andrew-maniglia-kitchen-1-.jpg
+  alt: Andrew Maniglia
+siteUrl: https://www.andrewmaniglia.com/
 socialLinks:
   twitter:
-    url: https://www.x.com
+    url: https://www.linkedin.com/in/andrewjmaniglia/
     label: Visit
-    show: true
+    show: false
   facebook:
     url: https://www.facebook.com
     label: Visit
-    show: true
+    show: false
   linkedin:
-    url: https://www.linkedin.com
+    url: https://www.linkedin.com/in/andrewjmaniglia/
     label: Visit
     show: true
   pinterest:
