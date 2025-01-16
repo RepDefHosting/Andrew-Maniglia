@@ -12,7 +12,7 @@ learnMoreButton:
 subheader: Senior Marketing Executive
 pageSlug: /
 featuredImage:
-  src: /img/RainDrop Hero Image.jpg
+  src: /img/pexels-snapwire-618613.jpg
   alt: Andrew Maniglia
   caption: null
 header: Chandler Villacruz
